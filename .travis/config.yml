@@ -1,0 +1,13 @@
+---
+last_check:
+  etag: '"8ff1181ed18b91b23fc283a15141aeb0"'
+  version: 1.8.10
+  at: 1570714426
+checked_completion: true
+completion_version: 1.8.10
+endpoints:
+  https://api.travis-ci.org/:
+    access_token: E9SNCw_liEP87eQlXKsLBw
+repos:
+  pckg78/sfdx-travisci:
+    endpoint: https://api.travis-ci.org/
